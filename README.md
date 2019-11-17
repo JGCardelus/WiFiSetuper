@@ -10,7 +10,11 @@ This program will automatically solve error in the Dell XPS 15 where Ubuntu does
     - You can also access internet through Bluetooth
 
 ## Run the program
-'''
+```
 sudo chmod -x solve.sh
 ./solve.sh
-'''
+```
+To make it work, run
+```
+reboot
+```
